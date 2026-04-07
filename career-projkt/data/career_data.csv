@@ -1,0 +1,1001 @@
+prog,math,comm,creative,logic,tech,business,cgpa,career
+9,3,8,1,9,2,3,9.4,Software Engineer
+2,2,2,7,0,6,9,9.0,Core Engineer
+3,4,10,0,5,8,1,6.85,Core Engineer
+3,3,5,7,3,7,0,9.55,Core Engineer
+0,4,3,7,1,10,1,9.42,Core Engineer
+9,0,6,0,5,9,2,8.17,Core Engineer
+2,5,10,5,5,8,9,6.52,Product Manager
+5,2,2,1,4,1,8,5.43,Core Engineer
+4,10,7,2,4,5,4,5.23,Core Engineer
+8,7,0,8,2,8,1,9.98,Designer
+7,8,8,2,8,9,0,9.32,Data Scientist
+6,2,3,8,0,10,5,8.32,Designer
+8,10,0,2,8,2,10,8.88,Software Engineer
+8,7,0,9,9,6,4,6.48,Software Engineer
+1,5,6,9,5,6,6,6.84,Designer
+10,10,2,7,3,2,5,5.9,Core Engineer
+7,7,1,1,8,8,8,8.38,Core Engineer
+2,8,9,9,2,4,4,6.13,Designer
+3,3,3,6,4,4,6,7.17,Core Engineer
+3,10,8,9,4,1,8,8.1,Product Manager
+1,10,2,3,4,7,1,5.18,Core Engineer
+3,2,9,7,3,0,2,7.22,Core Engineer
+9,1,5,6,0,5,9,8.18,Core Engineer
+6,4,9,10,7,3,9,9.32,Product Manager
+3,6,6,1,1,2,0,5.94,Core Engineer
+10,2,10,2,6,8,10,5.99,Product Manager
+10,8,6,0,8,0,1,8.16,Software Engineer
+0,6,1,4,8,1,5,5.89,Core Engineer
+2,0,6,3,1,5,0,7.36,Core Engineer
+7,10,4,7,7,10,7,5.33,Data Scientist
+10,4,4,0,9,2,3,5.53,Software Engineer
+9,8,6,2,0,3,2,5.17,Core Engineer
+7,5,8,2,1,1,5,5.85,Core Engineer
+4,1,6,2,3,7,0,9.28,Core Engineer
+3,1,4,2,6,3,9,9.12,Core Engineer
+9,10,5,2,2,7,4,8.54,Core Engineer
+3,5,8,4,7,10,5,8.81,Core Engineer
+6,2,5,5,4,1,7,6.8,Core Engineer
+4,5,6,3,4,5,6,5.74,Core Engineer
+10,9,8,7,2,6,8,5.59,Product Manager
+3,7,5,3,8,1,0,6.17,Core Engineer
+2,2,0,9,4,9,1,5.21,Designer
+10,9,0,1,2,10,7,9.37,Data Scientist
+6,3,4,1,7,4,8,5.7,Core Engineer
+10,8,4,4,2,7,8,8.03,Core Engineer
+3,6,5,3,5,9,1,5.85,Core Engineer
+2,3,10,10,5,6,0,5.58,Designer
+2,8,0,7,7,8,1,6.94,Data Scientist
+0,9,2,4,6,3,10,6.64,Core Engineer
+1,3,7,0,7,1,1,5.23,Core Engineer
+6,9,9,1,8,0,10,8.75,Product Manager
+2,7,7,5,6,7,7,6.81,Core Engineer
+7,9,9,0,3,8,2,5.37,Data Scientist
+9,9,2,5,4,7,4,7.97,Core Engineer
+3,10,3,9,6,4,3,9.24,Designer
+1,3,9,7,0,4,8,8.42,Product Manager
+6,8,4,7,1,2,8,6.76,Core Engineer
+1,5,7,1,7,6,10,8.07,Core Engineer
+9,6,10,4,3,9,5,8.63,Core Engineer
+9,0,9,8,2,7,6,7.36,Designer
+2,4,3,3,7,9,7,5.87,Core Engineer
+3,9,1,7,4,10,5,8.16,Data Scientist
+1,10,2,6,8,3,8,8.1,Core Engineer
+8,4,9,10,9,3,7,6.98,Software Engineer
+5,3,1,6,3,1,4,8.85,Core Engineer
+4,3,1,4,2,10,5,9.04,Core Engineer
+2,10,7,4,7,3,5,6.15,Core Engineer
+8,4,4,10,8,3,8,8.25,Software Engineer
+9,5,9,0,9,0,10,9.68,Software Engineer
+0,0,4,2,10,10,7,8.44,Core Engineer
+1,2,6,1,10,3,6,8.15,Core Engineer
+6,8,0,3,8,2,3,5.91,Core Engineer
+10,0,4,7,2,0,0,5.67,Core Engineer
+3,0,9,6,8,8,5,9.39,Core Engineer
+4,7,8,10,8,7,3,5.11,Designer
+6,3,9,4,7,10,1,8.46,Core Engineer
+4,6,5,10,3,10,3,7.02,Designer
+7,1,0,6,4,7,10,6.87,Core Engineer
+9,4,6,2,8,8,1,7.9,Software Engineer
+7,3,9,8,4,9,10,5.49,Product Manager
+9,0,6,1,10,8,5,5.29,Software Engineer
+1,5,0,1,5,1,7,7.11,Core Engineer
+3,8,6,8,4,4,4,9.25,Designer
+6,4,5,3,5,2,4,6.79,Core Engineer
+2,9,6,4,9,0,9,8.32,Core Engineer
+2,8,1,6,3,10,8,8.42,Data Scientist
+7,10,4,9,4,8,1,9.41,Data Scientist
+7,10,7,4,10,3,3,5.25,Core Engineer
+10,9,7,3,3,10,4,8.66,Data Scientist
+6,8,0,9,4,8,0,9.45,Data Scientist
+0,4,10,6,3,8,8,8.49,Product Manager
+8,4,8,0,1,9,4,7.75,Core Engineer
+1,10,10,5,10,8,8,9.48,Data Scientist
+9,10,4,10,8,1,5,6.9,Software Engineer
+6,5,7,7,2,3,7,9.06,Core Engineer
+4,0,6,5,6,4,6,7.53,Core Engineer
+0,9,10,6,2,2,6,7.73,Core Engineer
+5,3,9,9,6,2,7,8.87,Designer
+5,1,0,1,7,3,1,7.04,Core Engineer
+9,0,8,5,8,2,3,7.6,Software Engineer
+7,7,9,9,10,5,10,7.95,Product Manager
+6,6,7,7,2,6,1,5.43,Core Engineer
+5,8,4,10,8,2,3,7.23,Designer
+8,9,6,0,1,10,4,7.32,Data Scientist
+9,9,0,4,7,9,0,6.01,Data Scientist
+6,4,6,5,6,5,0,5.59,Core Engineer
+9,5,0,9,8,3,4,8.53,Software Engineer
+7,10,2,1,0,7,6,9.9,Core Engineer
+5,7,6,7,7,4,8,8.06,Core Engineer
+1,5,10,2,0,4,9,6.3,Product Manager
+9,4,7,3,6,4,1,9.01,Core Engineer
+2,7,6,8,5,7,8,5.48,Designer
+3,7,10,7,6,9,6,5.5,Core Engineer
+8,10,0,0,3,1,8,5.79,Core Engineer
+9,1,8,9,5,7,4,8.47,Designer
+2,9,8,0,2,2,5,9.19,Core Engineer
+2,7,4,0,1,9,9,7.81,Core Engineer
+3,1,10,4,3,7,3,8.31,Core Engineer
+6,8,6,3,6,5,0,7.78,Core Engineer
+2,2,6,8,10,5,4,6.63,Designer
+10,1,7,3,7,1,5,9.27,Core Engineer
+0,4,8,4,10,4,9,9.37,Product Manager
+3,1,3,3,3,4,0,5.55,Core Engineer
+1,8,4,6,10,4,9,6.9,Core Engineer
+1,10,4,5,9,2,8,7.27,Core Engineer
+9,8,6,10,6,5,8,8.43,Designer
+2,2,7,0,5,2,5,9.61,Core Engineer
+8,4,8,1,10,6,6,8.96,Software Engineer
+9,0,4,7,3,3,6,5.15,Core Engineer
+3,0,6,7,4,8,3,8.98,Core Engineer
+0,7,9,9,8,3,9,5.36,Product Manager
+9,5,5,5,4,5,6,7.85,Core Engineer
+0,8,3,1,0,2,4,5.74,Core Engineer
+2,0,5,0,4,1,10,5.22,Core Engineer
+0,1,0,9,7,5,4,6.86,Designer
+3,8,5,6,6,4,7,8.04,Core Engineer
+1,6,9,10,9,5,10,7.71,Product Manager
+10,0,5,1,2,10,3,7.55,Core Engineer
+1,10,9,10,1,3,10,7.79,Product Manager
+2,0,2,8,9,5,6,8.43,Designer
+9,2,5,4,8,1,10,7.31,Software Engineer
+5,9,10,5,0,0,1,5.32,Core Engineer
+5,0,6,1,4,0,1,6.84,Core Engineer
+3,7,4,0,0,0,5,9.44,Core Engineer
+5,6,5,2,7,2,9,6.4,Core Engineer
+1,6,2,2,7,9,7,8.25,Core Engineer
+2,8,4,2,4,0,3,9.23,Core Engineer
+0,8,2,8,5,9,1,5.52,Data Scientist
+4,5,6,0,6,8,2,8.27,Core Engineer
+7,1,6,5,5,2,4,8.45,Core Engineer
+8,6,3,2,3,1,7,5.93,Core Engineer
+6,4,10,6,2,5,7,9.29,Core Engineer
+6,3,1,1,4,5,1,5.86,Core Engineer
+4,3,4,1,3,2,9,5.97,Core Engineer
+2,6,7,3,5,7,6,6.89,Core Engineer
+6,7,2,5,6,10,5,5.91,Core Engineer
+8,3,4,9,3,6,10,6.85,Designer
+1,3,1,9,6,3,1,6.44,Designer
+4,10,9,2,6,2,1,6.78,Core Engineer
+7,1,6,9,10,0,3,6.57,Designer
+0,6,10,9,7,3,8,8.02,Product Manager
+3,9,8,6,6,7,4,9.13,Core Engineer
+9,5,10,6,3,1,2,5.69,Core Engineer
+0,10,0,3,0,4,7,6.36,Core Engineer
+5,7,0,7,0,8,3,9.83,Core Engineer
+10,10,2,7,6,0,8,5.4,Core Engineer
+9,6,0,10,6,5,3,5.1,Designer
+9,6,5,2,3,6,0,5.08,Core Engineer
+3,9,9,8,7,9,8,7.57,Data Scientist
+7,4,9,2,2,3,7,7.82,Core Engineer
+8,1,7,2,1,4,7,9.47,Core Engineer
+1,7,6,4,3,2,5,9.99,Core Engineer
+6,5,1,0,5,5,1,9.59,Core Engineer
+6,8,5,7,6,0,7,9.3,Core Engineer
+6,1,8,4,5,1,4,7.12,Core Engineer
+7,9,5,1,8,10,9,6.38,Data Scientist
+6,1,3,1,3,3,2,9.49,Core Engineer
+8,6,2,9,8,0,4,7.91,Software Engineer
+5,9,7,7,0,10,7,8.9,Data Scientist
+1,5,0,1,8,6,9,7.67,Core Engineer
+9,3,1,1,4,10,3,8.74,Core Engineer
+4,6,10,1,3,7,10,9.95,Product Manager
+7,6,8,1,7,8,4,9.01,Core Engineer
+2,2,5,0,5,4,5,7.75,Core Engineer
+4,1,6,2,5,1,3,5.22,Core Engineer
+2,10,3,4,3,6,5,7.67,Core Engineer
+7,5,0,9,9,6,9,5.71,Designer
+9,10,1,6,5,2,2,5.88,Core Engineer
+1,0,4,8,1,0,2,7.75,Designer
+1,3,2,4,7,5,3,6.42,Core Engineer
+8,2,6,10,8,10,2,5.28,Software Engineer
+9,10,8,3,5,10,8,9.58,Data Scientist
+2,4,0,6,8,3,3,9.69,Core Engineer
+6,0,6,3,1,5,5,7.74,Core Engineer
+5,0,6,6,5,7,7,9.39,Core Engineer
+9,3,7,6,10,8,10,8.77,Software Engineer
+1,1,3,7,8,4,4,6.06,Core Engineer
+7,1,9,6,0,6,4,5.49,Core Engineer
+1,9,1,3,1,8,1,7.28,Data Scientist
+3,8,3,8,8,9,9,5.52,Data Scientist
+1,9,6,1,2,3,0,8.9,Core Engineer
+10,6,0,8,7,9,10,7.34,Designer
+10,6,1,3,10,7,3,8.17,Software Engineer
+7,6,3,8,8,6,3,8.72,Designer
+7,4,7,4,0,3,10,5.14,Core Engineer
+3,8,5,1,7,2,3,6.09,Core Engineer
+10,4,3,7,7,7,6,8.2,Core Engineer
+1,0,1,6,8,5,5,6.81,Core Engineer
+2,5,5,3,9,2,10,5.65,Core Engineer
+7,1,6,6,2,7,0,5.16,Core Engineer
+1,10,1,2,6,5,8,6.62,Core Engineer
+6,7,2,6,5,2,4,5.34,Core Engineer
+2,8,3,6,10,9,10,7.32,Data Scientist
+0,10,6,3,6,2,0,5.38,Core Engineer
+8,3,4,10,10,7,2,7.99,Software Engineer
+8,2,1,6,1,1,9,9.36,Core Engineer
+0,3,7,9,3,8,7,9.72,Designer
+0,4,3,7,8,4,6,7.83,Core Engineer
+4,2,10,0,10,2,8,5.73,Product Manager
+6,6,10,4,0,5,4,9.05,Core Engineer
+7,7,4,0,10,0,8,9.52,Core Engineer
+7,5,8,7,6,8,2,5.25,Core Engineer
+2,4,7,1,1,0,6,8.69,Core Engineer
+8,8,8,8,3,8,8,5.37,Data Scientist
+8,5,8,9,2,9,0,7.36,Designer
+10,8,4,5,1,2,6,6.6,Core Engineer
+7,4,8,4,8,7,7,6.19,Core Engineer
+1,6,8,4,8,10,3,6.7,Core Engineer
+7,9,5,7,10,4,1,7.13,Core Engineer
+1,6,4,1,4,4,8,7.29,Core Engineer
+7,10,10,3,5,6,9,9.64,Product Manager
+4,1,6,0,5,1,2,6.02,Core Engineer
+9,0,6,0,2,5,0,8.02,Core Engineer
+0,5,0,8,1,8,0,8.5,Designer
+3,0,7,2,3,4,10,6.47,Core Engineer
+2,2,0,2,2,1,4,8.04,Core Engineer
+7,9,7,9,0,8,8,7.03,Data Scientist
+6,7,5,5,6,1,1,7.11,Core Engineer
+5,8,2,1,5,3,1,6.44,Core Engineer
+7,0,8,5,1,6,8,5.72,Product Manager
+7,3,7,2,8,1,9,8.66,Core Engineer
+6,0,5,2,3,10,4,9.03,Core Engineer
+9,8,5,10,2,7,1,8.26,Designer
+9,2,8,9,10,5,5,8.86,Software Engineer
+4,10,3,2,5,6,9,5.94,Core Engineer
+10,7,2,10,1,10,9,5.81,Designer
+10,8,0,0,8,4,4,6.65,Software Engineer
+6,8,3,1,2,6,3,7.08,Core Engineer
+3,1,2,8,4,10,6,5.18,Designer
+9,7,7,6,9,1,9,6.58,Software Engineer
+5,6,2,5,0,10,5,9.77,Core Engineer
+9,9,7,1,6,10,1,6.13,Data Scientist
+0,8,7,3,1,3,4,6.9,Core Engineer
+10,9,2,5,5,8,9,9.56,Data Scientist
+10,0,6,5,8,7,1,7.99,Software Engineer
+3,6,9,8,5,8,8,8.88,Product Manager
+2,6,10,3,2,5,10,5.54,Product Manager
+7,9,5,7,1,4,3,5.39,Core Engineer
+0,4,5,1,10,4,0,9.63,Core Engineer
+0,8,10,1,10,0,9,6.4,Product Manager
+0,2,3,7,4,10,0,9.79,Core Engineer
+4,4,5,7,1,3,10,6.9,Core Engineer
+6,9,5,3,10,0,8,5.47,Core Engineer
+5,6,3,8,1,5,1,8.92,Designer
+10,0,7,4,4,6,10,9.49,Core Engineer
+9,2,4,1,2,1,9,7.26,Core Engineer
+3,3,0,7,1,1,8,5.46,Core Engineer
+8,5,10,0,8,3,3,6.32,Software Engineer
+0,9,5,0,0,10,2,8.43,Data Scientist
+0,7,1,0,2,8,8,5.61,Core Engineer
+8,5,8,10,4,7,3,9.46,Designer
+1,10,3,10,9,6,4,6.67,Designer
+8,9,9,4,1,8,10,8.04,Data Scientist
+7,7,4,9,7,9,5,8.4,Designer
+4,1,7,3,10,3,3,5.77,Core Engineer
+0,4,1,5,3,2,7,8.78,Core Engineer
+4,3,8,8,0,0,8,5.92,Product Manager
+7,7,4,5,4,10,7,9.97,Core Engineer
+5,7,8,5,10,10,6,6.5,Core Engineer
+3,3,10,2,4,5,7,6.39,Core Engineer
+0,9,9,0,1,9,2,9.06,Data Scientist
+1,8,0,6,2,6,2,9.44,Core Engineer
+9,2,7,9,8,2,8,9.72,Software Engineer
+8,0,2,10,8,3,1,9.43,Software Engineer
+7,8,6,10,10,5,9,7.71,Designer
+5,1,9,9,1,3,1,8.36,Designer
+4,2,8,9,1,8,7,9.96,Designer
+0,7,3,9,3,0,9,6.11,Designer
+4,1,4,1,6,4,1,8.34,Core Engineer
+8,9,5,5,8,6,0,7.08,Software Engineer
+10,10,3,6,8,3,6,8.76,Software Engineer
+6,0,7,6,3,9,1,8.63,Core Engineer
+2,10,4,10,0,2,8,8.4,Designer
+1,7,2,9,10,8,8,5.52,Designer
+5,9,9,6,9,10,8,8.68,Data Scientist
+9,4,3,1,3,0,2,6.3,Core Engineer
+8,1,10,4,5,7,7,8.07,Core Engineer
+10,10,9,2,5,2,8,6.4,Product Manager
+3,0,1,6,8,2,4,9.58,Core Engineer
+5,0,8,6,5,3,3,8.35,Core Engineer
+0,7,0,10,6,0,9,9.1,Designer
+5,4,5,8,4,0,0,5.1,Designer
+9,5,9,5,8,6,9,6.87,Software Engineer
+7,3,0,5,5,5,2,8.7,Core Engineer
+5,4,7,9,7,6,1,6.09,Designer
+4,10,3,2,1,7,10,9.11,Core Engineer
+3,9,6,0,6,8,10,9.25,Data Scientist
+0,7,4,1,4,0,4,8.09,Core Engineer
+5,8,8,10,4,2,3,6.59,Designer
+8,6,7,10,6,1,9,6.42,Designer
+8,1,8,8,7,7,4,6.16,Designer
+5,1,2,9,3,3,3,5.47,Designer
+2,4,4,1,7,2,5,5.29,Core Engineer
+10,9,10,4,10,10,8,8.89,Software Engineer
+0,4,5,7,6,5,1,6.03,Core Engineer
+0,1,5,10,7,9,8,7.52,Designer
+5,2,8,0,0,0,6,8.59,Core Engineer
+7,5,0,2,8,0,3,9.09,Core Engineer
+7,4,0,5,6,0,7,6.06,Core Engineer
+9,9,6,9,3,10,1,6.64,Data Scientist
+9,4,9,4,6,8,8,6.0,Product Manager
+9,7,2,1,2,7,6,5.88,Core Engineer
+2,9,10,5,10,4,2,5.83,Core Engineer
+0,1,7,0,0,8,9,8.32,Core Engineer
+0,10,4,2,7,2,0,8.34,Core Engineer
+4,1,7,7,1,3,1,8.09,Core Engineer
+2,10,10,6,6,0,6,6.36,Core Engineer
+8,7,2,9,0,8,7,5.47,Designer
+8,1,9,8,4,10,8,6.11,Product Manager
+7,8,7,8,4,7,3,8.29,Designer
+4,10,1,4,0,1,6,5.41,Core Engineer
+7,8,8,9,1,5,3,8.12,Designer
+6,3,2,0,4,8,1,7.12,Core Engineer
+0,10,6,6,8,7,2,8.54,Core Engineer
+9,10,6,3,6,5,10,6.5,Core Engineer
+6,3,3,0,5,9,5,6.16,Core Engineer
+10,8,3,9,10,10,3,6.22,Software Engineer
+5,2,1,3,6,1,10,8.44,Core Engineer
+9,5,3,0,6,10,8,5.4,Core Engineer
+4,4,5,6,5,3,6,9.33,Core Engineer
+3,2,6,7,10,7,10,7.1,Core Engineer
+1,8,9,10,3,3,8,7.38,Product Manager
+4,7,8,9,10,10,0,7.88,Designer
+5,10,1,2,7,9,8,8.01,Data Scientist
+3,6,9,4,5,6,10,6.88,Product Manager
+0,5,7,9,2,6,3,7.27,Designer
+6,7,6,1,2,10,6,6.36,Core Engineer
+1,4,8,1,3,6,6,9.04,Core Engineer
+1,1,4,4,8,0,1,8.96,Core Engineer
+1,3,4,4,5,7,0,9.78,Core Engineer
+7,7,1,5,4,9,1,7.55,Core Engineer
+10,6,1,1,3,0,7,7.26,Core Engineer
+6,1,9,9,5,5,7,8.03,Designer
+3,0,2,5,1,4,3,9.13,Core Engineer
+3,4,1,8,2,1,2,7.42,Designer
+8,8,7,6,7,6,6,9.71,Core Engineer
+9,9,2,6,2,3,5,6.25,Core Engineer
+6,4,8,5,10,6,9,9.34,Product Manager
+1,5,7,1,7,0,6,5.02,Core Engineer
+1,1,6,2,1,1,7,5.08,Core Engineer
+6,8,8,8,4,3,9,6.4,Product Manager
+0,6,5,10,10,9,9,6.07,Designer
+5,10,0,8,6,5,10,7.81,Designer
+7,0,2,5,9,7,6,8.39,Core Engineer
+7,8,5,0,10,2,10,6.62,Core Engineer
+7,2,10,9,3,5,1,6.45,Designer
+8,1,10,7,5,2,9,7.01,Product Manager
+0,4,9,1,4,3,9,9.6,Product Manager
+2,10,10,8,9,0,0,8.85,Designer
+2,3,10,2,2,9,1,9.9,Core Engineer
+5,2,7,2,6,0,3,5.6,Core Engineer
+3,4,8,0,5,6,4,5.03,Core Engineer
+8,2,10,0,2,3,3,7.53,Core Engineer
+0,5,9,7,5,5,1,6.28,Core Engineer
+6,5,7,5,1,6,6,7.55,Core Engineer
+4,0,10,10,9,5,7,8.47,Designer
+6,4,9,5,2,9,8,7.07,Product Manager
+3,10,10,7,4,3,1,9.46,Core Engineer
+7,4,1,6,0,4,3,7.75,Core Engineer
+9,2,9,1,10,1,7,6.2,Software Engineer
+0,6,10,9,7,3,0,8.11,Designer
+7,7,5,8,9,8,3,5.63,Designer
+3,0,8,7,3,8,8,7.64,Product Manager
+6,10,3,5,10,9,8,5.9,Data Scientist
+1,2,10,3,3,4,9,9.06,Product Manager
+3,1,7,6,1,2,0,9.83,Core Engineer
+8,3,9,6,3,10,2,6.39,Core Engineer
+9,6,6,9,0,4,9,9.18,Designer
+6,8,9,4,0,3,10,6.7,Product Manager
+1,6,7,7,3,1,9,5.7,Core Engineer
+10,10,5,2,1,9,4,6.97,Data Scientist
+7,1,1,8,4,0,7,9.12,Designer
+5,0,3,8,4,3,3,9.56,Designer
+8,2,3,7,5,10,8,8.03,Core Engineer
+10,0,8,0,3,5,4,9.74,Core Engineer
+10,3,4,6,2,0,4,5.97,Core Engineer
+6,1,4,8,8,9,5,5.72,Designer
+9,1,10,1,7,7,0,5.49,Core Engineer
+5,0,3,2,0,6,6,8.66,Core Engineer
+4,4,9,0,3,2,0,7.52,Core Engineer
+4,10,10,3,5,4,0,6.19,Core Engineer
+5,1,9,7,10,6,9,8.59,Product Manager
+4,8,1,10,10,9,5,7.19,Data Scientist
+3,1,3,3,3,6,6,5.62,Core Engineer
+6,2,3,7,8,2,9,6.53,Core Engineer
+5,7,9,10,4,7,7,8.68,Designer
+1,0,6,8,2,2,2,6.61,Designer
+10,7,0,0,3,3,7,7.43,Core Engineer
+5,9,1,6,2,1,9,8.07,Core Engineer
+1,4,9,2,1,10,9,5.98,Product Manager
+9,8,8,1,4,9,1,9.35,Data Scientist
+9,10,7,3,1,9,9,5.54,Data Scientist
+10,6,4,5,10,1,6,7.38,Software Engineer
+1,6,3,6,5,7,5,7.28,Core Engineer
+9,1,6,6,2,8,9,7.41,Core Engineer
+3,5,8,2,0,7,8,5.28,Product Manager
+5,10,1,3,1,4,3,8.74,Core Engineer
+2,7,1,10,3,2,3,5.02,Designer
+10,2,4,7,0,1,7,9.65,Core Engineer
+7,5,9,8,1,6,7,7.16,Designer
+6,9,10,2,10,0,3,9.87,Core Engineer
+2,5,6,9,9,8,0,7.3,Designer
+10,6,4,4,4,6,1,5.43,Core Engineer
+1,0,1,10,4,10,9,5.08,Designer
+10,6,7,3,5,0,5,9.03,Core Engineer
+10,9,3,8,7,3,9,5.72,Designer
+0,7,3,3,2,4,6,8.56,Core Engineer
+1,6,6,7,5,3,3,6.11,Core Engineer
+6,5,3,5,4,3,6,8.81,Core Engineer
+2,7,2,1,3,6,10,7.41,Core Engineer
+2,9,9,6,5,10,9,5.73,Data Scientist
+0,1,0,2,5,9,0,6.58,Core Engineer
+2,0,4,6,0,4,6,5.26,Core Engineer
+0,7,9,5,10,10,2,6.75,Core Engineer
+9,9,9,10,10,5,3,6.7,Software Engineer
+6,3,10,6,8,8,8,7.04,Product Manager
+8,8,5,8,7,8,2,9.16,Data Scientist
+3,1,3,8,1,4,3,8.65,Designer
+6,6,0,2,0,4,1,7.25,Core Engineer
+0,3,1,4,5,4,1,5.68,Core Engineer
+10,10,9,10,8,9,0,9.87,Software Engineer
+2,7,1,8,5,7,3,7.93,Designer
+2,8,8,3,9,10,3,8.93,Data Scientist
+3,3,4,0,10,1,4,9.8,Core Engineer
+1,8,4,2,4,0,5,5.13,Core Engineer
+6,6,3,1,1,9,0,6.53,Core Engineer
+10,1,8,7,1,5,2,9.46,Core Engineer
+3,4,5,4,9,4,3,7.71,Core Engineer
+4,5,9,5,8,7,1,8.67,Core Engineer
+9,10,4,7,8,0,2,5.84,Software Engineer
+9,4,10,5,4,0,0,5.77,Core Engineer
+4,10,10,0,10,9,3,9.59,Data Scientist
+9,6,1,1,6,9,8,9.51,Core Engineer
+4,3,1,5,1,6,10,9.64,Core Engineer
+0,4,10,10,2,5,1,7.72,Designer
+1,0,3,7,10,5,2,8.45,Core Engineer
+9,2,4,6,8,4,5,5.18,Software Engineer
+3,9,7,9,5,7,9,8.36,Designer
+2,7,6,8,2,7,1,7.37,Designer
+5,9,7,0,1,0,10,9.59,Core Engineer
+6,8,8,0,5,5,4,8.31,Core Engineer
+2,0,0,10,0,5,7,9.47,Designer
+8,1,5,3,3,6,6,9.28,Core Engineer
+10,1,10,0,0,6,1,9.65,Core Engineer
+6,5,7,9,4,8,4,5.15,Designer
+5,1,8,4,10,3,8,8.7,Product Manager
+1,4,7,3,3,4,6,5.16,Core Engineer
+6,7,0,10,5,8,8,5.72,Designer
+8,7,4,6,0,4,6,9.4,Core Engineer
+10,6,9,0,4,1,5,6.71,Core Engineer
+0,7,2,5,1,0,4,5.91,Core Engineer
+5,9,5,7,4,0,6,8.87,Core Engineer
+3,1,8,3,7,2,7,5.43,Core Engineer
+3,2,9,3,7,0,5,7.68,Core Engineer
+6,8,7,3,1,4,9,6.19,Core Engineer
+6,0,8,2,2,6,1,8.55,Core Engineer
+8,2,4,9,8,10,3,9.49,Software Engineer
+9,1,0,5,8,4,4,8.72,Software Engineer
+9,9,6,0,2,1,9,9.56,Core Engineer
+8,9,0,4,4,5,1,9.18,Core Engineer
+10,0,3,2,5,4,9,6.58,Core Engineer
+7,9,10,0,9,8,1,9.05,Data Scientist
+3,10,9,3,3,10,9,5.28,Data Scientist
+7,8,0,3,3,10,4,9.13,Data Scientist
+3,10,8,5,6,2,10,6.87,Product Manager
+4,5,5,7,7,8,8,9.62,Core Engineer
+0,5,5,10,7,8,9,6.75,Designer
+10,1,8,5,1,6,8,9.62,Product Manager
+9,2,9,9,10,1,9,5.63,Software Engineer
+7,6,0,9,10,0,0,8.91,Designer
+6,5,10,7,0,0,10,9.99,Product Manager
+2,4,1,7,9,2,7,6.91,Core Engineer
+5,1,1,6,8,2,9,6.7,Core Engineer
+5,7,3,4,7,1,4,9.34,Core Engineer
+1,9,7,10,10,6,3,5.62,Designer
+2,3,4,7,3,2,3,5.86,Core Engineer
+1,0,0,6,0,3,3,5.68,Core Engineer
+8,5,9,0,6,6,7,7.18,Core Engineer
+8,10,10,7,5,9,1,6.28,Data Scientist
+5,9,5,0,9,3,8,5.53,Core Engineer
+6,2,10,9,3,5,8,9.04,Product Manager
+7,9,7,2,8,1,8,6.51,Core Engineer
+3,6,6,2,1,4,10,5.51,Core Engineer
+10,6,2,10,9,6,7,7.91,Software Engineer
+8,9,4,3,0,9,8,9.61,Data Scientist
+1,9,9,7,6,5,10,6.78,Product Manager
+5,4,0,5,6,7,6,8.73,Core Engineer
+0,4,7,8,4,10,6,5.82,Designer
+4,4,10,3,8,7,2,6.95,Core Engineer
+8,10,2,6,6,7,0,5.31,Core Engineer
+4,1,8,9,0,6,4,7.76,Designer
+4,10,9,4,1,3,1,9.35,Core Engineer
+4,6,5,8,6,6,5,6.72,Designer
+2,7,5,5,0,2,6,8.74,Core Engineer
+5,1,2,5,3,4,10,9.58,Core Engineer
+10,10,3,5,5,9,5,8.85,Data Scientist
+4,10,5,7,5,1,4,5.89,Core Engineer
+5,8,10,0,3,4,2,8.44,Core Engineer
+2,5,7,10,5,1,6,5.29,Designer
+5,0,6,5,4,2,5,7.64,Core Engineer
+3,0,7,0,5,3,5,9.31,Core Engineer
+5,9,6,8,6,10,8,7.52,Data Scientist
+6,9,9,8,0,9,5,6.4,Data Scientist
+5,0,4,2,2,8,10,8.84,Core Engineer
+8,8,9,5,10,1,1,5.54,Software Engineer
+0,8,5,8,6,4,7,9.39,Designer
+6,3,7,10,0,5,3,7.6,Designer
+10,9,6,10,10,8,2,9.44,Software Engineer
+0,5,10,5,3,5,4,5.33,Core Engineer
+9,9,0,2,6,8,10,8.43,Data Scientist
+4,5,4,6,4,7,10,9.48,Core Engineer
+8,4,2,7,5,5,1,8.25,Core Engineer
+4,5,10,9,1,0,1,8.6,Designer
+0,4,7,0,3,5,3,8.99,Core Engineer
+5,8,8,10,5,7,9,8.39,Product Manager
+8,5,5,5,7,1,0,6.96,Core Engineer
+5,5,9,6,8,0,0,8.24,Core Engineer
+2,2,9,9,3,4,8,8.23,Product Manager
+5,10,10,3,0,3,7,9.14,Core Engineer
+5,2,7,9,5,6,5,7.56,Designer
+1,3,8,2,3,2,1,5.29,Core Engineer
+8,8,0,1,2,10,1,7.19,Data Scientist
+0,9,0,5,3,1,5,8.27,Core Engineer
+2,1,5,8,9,8,6,7.49,Designer
+1,3,2,7,9,7,1,8.68,Core Engineer
+8,5,8,5,6,6,2,6.97,Core Engineer
+8,7,10,7,5,8,5,7.88,Core Engineer
+6,4,6,7,0,7,7,6.47,Core Engineer
+7,6,6,10,7,5,2,9.46,Designer
+9,1,8,4,5,0,2,8.55,Core Engineer
+10,2,5,7,4,3,8,7.38,Core Engineer
+7,10,6,7,1,10,7,9.66,Data Scientist
+8,6,1,2,0,3,1,9.7,Core Engineer
+0,10,6,4,3,2,8,8.95,Core Engineer
+2,0,2,7,5,5,10,5.28,Core Engineer
+0,4,0,5,5,10,0,8.85,Core Engineer
+10,9,9,5,6,2,4,6.3,Core Engineer
+10,0,9,1,5,2,5,9.12,Core Engineer
+9,10,9,5,0,4,6,6.33,Core Engineer
+2,1,10,7,9,4,6,9.73,Core Engineer
+1,4,10,2,2,7,4,9.56,Core Engineer
+0,4,2,7,3,3,7,6.37,Core Engineer
+0,0,2,3,6,8,8,5.13,Core Engineer
+9,9,4,6,9,0,7,8.2,Software Engineer
+4,7,5,3,7,5,0,7.21,Core Engineer
+7,6,8,7,10,9,5,7.11,Core Engineer
+3,4,7,2,1,1,1,7.59,Core Engineer
+1,4,8,6,9,9,3,8.03,Core Engineer
+10,2,10,5,8,5,8,7.95,Software Engineer
+6,5,4,2,1,5,6,7.49,Core Engineer
+1,5,4,5,9,2,9,5.42,Core Engineer
+0,5,9,9,8,3,8,7.94,Product Manager
+7,2,9,4,3,10,10,5.49,Product Manager
+5,10,1,3,1,3,8,6.43,Core Engineer
+9,10,1,7,2,8,6,6.99,Data Scientist
+2,10,1,8,3,4,5,5.6,Designer
+2,9,2,8,0,0,9,6.09,Designer
+5,3,2,0,3,3,4,6.0,Core Engineer
+0,8,2,9,5,9,1,6.09,Data Scientist
+10,7,6,6,10,0,9,8.79,Software Engineer
+7,1,1,5,10,10,6,6.57,Core Engineer
+4,7,4,2,6,0,4,9.34,Core Engineer
+1,0,9,4,6,10,6,8.54,Core Engineer
+4,6,7,7,8,5,3,6.02,Core Engineer
+5,3,6,0,9,1,0,8.01,Core Engineer
+7,3,6,1,1,6,7,9.96,Core Engineer
+10,0,7,5,4,5,0,9.0,Core Engineer
+7,3,2,4,1,10,8,5.57,Core Engineer
+8,7,6,4,2,6,4,7.63,Core Engineer
+0,7,8,8,8,2,8,6.01,Product Manager
+4,3,6,4,7,1,8,8.02,Core Engineer
+3,3,5,0,6,3,3,8.49,Core Engineer
+5,7,1,4,3,8,2,6.76,Core Engineer
+10,5,2,6,3,2,8,6.55,Core Engineer
+3,5,0,9,4,2,2,6.32,Designer
+8,1,1,4,5,8,1,7.82,Core Engineer
+3,5,9,5,7,4,1,8.26,Core Engineer
+3,6,5,1,6,9,0,7.53,Core Engineer
+3,10,0,7,2,1,3,6.58,Core Engineer
+9,10,8,5,4,8,4,6.51,Data Scientist
+10,9,0,10,1,9,0,7.35,Data Scientist
+3,2,8,5,9,8,0,5.12,Core Engineer
+7,6,0,6,0,9,5,8.49,Core Engineer
+3,3,10,6,8,1,7,7.11,Core Engineer
+7,10,1,4,9,8,10,7.24,Data Scientist
+1,5,4,3,1,3,9,5.21,Core Engineer
+9,1,0,7,8,1,0,6.05,Software Engineer
+3,6,2,9,0,0,10,6.94,Designer
+1,4,8,7,8,10,0,9.26,Core Engineer
+0,5,2,4,2,9,4,7.27,Core Engineer
+7,0,9,7,8,9,5,5.52,Core Engineer
+2,6,0,1,8,8,7,5.6,Core Engineer
+7,3,6,0,10,6,6,7.43,Core Engineer
+4,3,3,4,1,7,10,8.78,Core Engineer
+0,7,4,10,1,0,6,8.88,Designer
+10,0,3,2,2,0,3,7.04,Core Engineer
+1,8,8,0,7,4,3,7.93,Core Engineer
+8,10,10,5,3,9,8,8.41,Data Scientist
+1,5,7,4,7,0,8,7.17,Core Engineer
+0,8,10,6,9,3,2,6.74,Core Engineer
+1,1,9,5,9,9,3,5.43,Core Engineer
+3,0,2,3,0,5,2,7.48,Core Engineer
+3,9,1,10,7,5,6,9.26,Designer
+1,6,9,9,10,9,5,6.71,Designer
+3,6,9,6,8,10,5,5.16,Core Engineer
+7,8,2,7,7,1,1,8.1,Core Engineer
+3,6,9,5,10,9,1,6.15,Core Engineer
+8,3,0,10,5,6,1,6.46,Designer
+10,0,1,9,9,8,5,5.44,Software Engineer
+5,4,4,4,5,4,10,5.79,Core Engineer
+8,0,7,6,10,9,6,9.75,Software Engineer
+5,3,6,3,7,6,1,9.99,Core Engineer
+10,6,0,4,7,1,6,6.97,Core Engineer
+5,4,0,2,0,0,10,7.79,Core Engineer
+4,3,8,0,2,4,7,8.69,Core Engineer
+6,10,6,0,4,0,1,9.76,Core Engineer
+6,5,1,7,5,6,8,5.62,Core Engineer
+5,7,5,8,10,6,10,6.19,Designer
+6,1,2,1,6,6,5,9.21,Core Engineer
+5,3,9,2,0,1,5,5.08,Core Engineer
+5,10,6,0,6,5,4,9.9,Core Engineer
+0,2,1,0,1,6,6,5.97,Core Engineer
+1,8,6,1,9,2,9,8.96,Core Engineer
+1,0,7,2,10,6,3,9.77,Core Engineer
+6,7,8,0,9,9,8,9.07,Product Manager
+0,10,7,4,2,3,0,8.36,Core Engineer
+5,9,5,2,3,8,6,7.22,Data Scientist
+5,5,4,4,10,7,0,9.98,Core Engineer
+0,1,4,4,5,10,2,9.04,Core Engineer
+2,5,7,1,2,6,3,6.51,Core Engineer
+2,10,0,10,7,10,4,8.28,Data Scientist
+10,2,10,4,0,6,10,6.78,Product Manager
+8,2,10,1,8,7,9,7.9,Software Engineer
+8,7,5,1,7,6,1,5.84,Core Engineer
+4,7,9,7,6,1,4,8.08,Core Engineer
+8,8,8,2,1,4,4,7.73,Core Engineer
+6,9,4,4,6,9,6,9.44,Data Scientist
+4,0,4,4,5,3,10,8.84,Core Engineer
+1,8,3,1,8,7,9,8.61,Core Engineer
+2,2,8,4,3,5,6,9.2,Core Engineer
+5,8,8,1,4,9,0,8.55,Data Scientist
+1,10,3,5,0,0,3,7.99,Core Engineer
+1,10,5,8,10,7,1,6.72,Designer
+8,8,1,7,10,3,4,6.48,Software Engineer
+7,5,2,3,2,1,0,6.55,Core Engineer
+3,2,4,3,10,5,3,9.79,Core Engineer
+0,9,3,6,6,8,3,5.89,Data Scientist
+9,6,10,10,5,2,8,6.89,Product Manager
+6,2,2,4,0,4,6,6.68,Core Engineer
+9,2,7,1,2,8,3,6.12,Core Engineer
+4,10,10,1,0,1,0,6.37,Core Engineer
+10,8,0,3,10,1,5,6.0,Software Engineer
+3,10,5,5,1,2,5,5.41,Core Engineer
+1,2,6,7,8,1,2,9.18,Core Engineer
+3,6,3,10,0,8,9,9.53,Designer
+8,1,1,2,10,7,5,7.19,Software Engineer
+9,1,4,8,6,3,0,5.63,Designer
+6,8,10,9,9,10,10,6.09,Data Scientist
+8,2,8,7,6,10,2,6.57,Core Engineer
+0,2,5,6,6,5,3,9.14,Core Engineer
+5,9,2,4,7,10,4,5.83,Data Scientist
+2,5,0,4,3,0,5,6.09,Core Engineer
+4,2,4,7,8,3,5,5.7,Core Engineer
+6,0,9,3,9,1,8,8.68,Product Manager
+7,10,7,0,0,8,5,7.57,Data Scientist
+6,1,9,3,4,3,4,7.15,Core Engineer
+2,10,5,6,4,3,8,5.8,Core Engineer
+9,8,8,3,6,10,6,9.51,Data Scientist
+1,7,5,10,8,4,3,8.56,Designer
+4,0,6,2,7,10,9,7.41,Core Engineer
+10,10,7,6,2,4,0,6.86,Core Engineer
+3,4,4,1,7,0,8,5.73,Core Engineer
+10,9,8,4,4,9,9,6.58,Data Scientist
+8,3,3,0,9,9,8,7.85,Software Engineer
+3,2,7,9,1,9,1,7.76,Designer
+1,2,7,8,6,2,6,7.93,Designer
+10,2,8,0,2,9,4,5.85,Core Engineer
+5,5,3,4,3,0,8,7.89,Core Engineer
+1,2,8,9,2,0,9,8.29,Product Manager
+1,6,4,5,0,1,1,8.87,Core Engineer
+0,5,2,8,4,5,7,5.17,Designer
+2,1,1,1,0,1,2,6.56,Core Engineer
+6,1,0,3,5,4,0,5.23,Core Engineer
+3,1,0,7,7,3,6,6.66,Core Engineer
+0,3,3,7,5,5,9,8.73,Core Engineer
+8,5,7,9,2,4,3,7.63,Designer
+3,5,1,5,5,8,2,9.92,Core Engineer
+3,8,0,1,10,2,3,8.95,Core Engineer
+6,1,7,8,0,5,8,8.73,Designer
+0,6,0,4,0,7,6,5.51,Core Engineer
+1,10,5,6,5,5,4,6.63,Core Engineer
+5,1,8,2,7,2,2,6.56,Core Engineer
+10,10,9,0,2,0,8,9.59,Product Manager
+1,9,7,2,6,4,6,8.33,Core Engineer
+0,6,5,3,5,9,2,8.54,Core Engineer
+6,8,1,0,4,3,1,8.55,Core Engineer
+3,6,6,5,10,8,0,7.03,Core Engineer
+0,1,9,1,0,10,4,5.34,Core Engineer
+2,3,2,3,1,0,7,8.21,Core Engineer
+7,10,3,3,4,0,6,5.55,Core Engineer
+6,9,10,5,10,3,9,8.56,Product Manager
+5,4,10,5,5,5,6,6.84,Core Engineer
+6,9,7,8,9,0,1,7.71,Designer
+4,9,0,7,2,1,4,7.43,Core Engineer
+5,5,3,5,5,8,5,9.43,Core Engineer
+0,2,5,10,7,5,5,8.42,Designer
+3,7,0,5,5,10,8,5.68,Core Engineer
+7,2,3,0,9,3,8,9.08,Core Engineer
+2,5,4,6,1,1,7,7.93,Core Engineer
+4,7,8,4,1,6,2,9.31,Core Engineer
+5,0,9,8,1,7,8,7.96,Product Manager
+9,2,9,7,6,2,4,5.12,Core Engineer
+4,2,6,10,9,7,4,6.32,Designer
+5,0,2,7,10,4,8,7.69,Core Engineer
+10,8,9,5,10,6,4,5.32,Software Engineer
+7,7,7,2,1,4,0,8.54,Core Engineer
+1,1,7,9,9,10,0,9.37,Designer
+5,8,1,3,10,4,3,5.59,Core Engineer
+3,9,1,0,5,10,2,7.84,Data Scientist
+5,7,6,10,0,10,2,5.14,Designer
+10,4,3,0,10,7,5,7.97,Software Engineer
+1,6,2,3,3,4,9,9.47,Core Engineer
+6,9,7,2,10,5,0,6.01,Core Engineer
+4,8,0,3,10,5,10,8.86,Core Engineer
+7,0,7,10,0,3,8,8.19,Designer
+2,1,2,7,7,2,5,7.07,Core Engineer
+10,9,10,5,6,7,7,9.96,Core Engineer
+1,4,8,7,10,3,5,7.25,Core Engineer
+0,2,2,1,0,1,6,5.19,Core Engineer
+4,2,5,4,9,8,9,7.28,Core Engineer
+8,4,9,5,6,5,2,6.03,Core Engineer
+7,6,5,0,7,4,4,6.15,Core Engineer
+6,1,1,2,10,2,3,7.43,Core Engineer
+5,1,5,0,0,1,6,8.8,Core Engineer
+10,5,9,2,5,3,2,6.77,Core Engineer
+1,6,6,9,8,5,3,8.4,Designer
+4,10,4,1,8,2,3,8.72,Core Engineer
+0,8,10,8,10,6,4,8.72,Designer
+8,0,10,4,4,9,2,6.18,Core Engineer
+10,2,7,8,10,1,9,5.46,Software Engineer
+5,5,4,5,1,4,10,6.59,Core Engineer
+1,10,9,1,7,6,7,8.21,Core Engineer
+10,10,9,8,9,4,9,5.75,Software Engineer
+0,9,6,5,10,5,6,8.61,Core Engineer
+4,9,9,2,4,0,2,8.59,Core Engineer
+9,2,7,0,0,9,8,8.81,Core Engineer
+8,7,7,3,7,6,8,9.48,Core Engineer
+4,3,9,3,0,3,6,7.63,Core Engineer
+3,0,2,7,1,2,0,7.74,Core Engineer
+2,9,6,0,4,9,3,8.06,Data Scientist
+0,6,3,6,10,7,5,9.08,Core Engineer
+3,8,2,4,1,1,10,7.31,Core Engineer
+10,10,5,6,0,8,10,7.7,Data Scientist
+6,10,0,9,0,5,0,6.98,Designer
+6,0,3,3,5,4,0,8.37,Core Engineer
+9,7,9,1,5,8,0,8.02,Core Engineer
+9,10,8,3,10,4,0,5.59,Software Engineer
+1,7,9,0,0,0,9,5.87,Product Manager
+1,1,7,1,8,5,3,9.69,Core Engineer
+10,0,4,5,0,9,6,6.05,Core Engineer
+4,5,4,5,8,0,7,8.11,Core Engineer
+0,0,10,1,9,5,5,8.42,Core Engineer
+3,7,7,3,4,4,3,7.53,Core Engineer
+3,6,1,4,8,8,7,6.89,Core Engineer
+7,9,2,5,0,4,1,9.63,Core Engineer
+2,9,10,0,5,5,0,9.73,Core Engineer
+9,5,4,1,5,5,0,5.56,Core Engineer
+7,1,7,9,8,8,9,8.4,Designer
+2,1,10,5,1,9,8,6.27,Product Manager
+2,2,5,9,3,0,8,6.57,Designer
+4,7,8,7,8,10,3,6.56,Core Engineer
+1,1,9,10,3,0,10,8.19,Product Manager
+6,7,0,9,7,6,9,9.3,Designer
+6,4,9,3,5,0,6,7.51,Core Engineer
+8,1,1,5,8,8,7,5.82,Software Engineer
+5,3,0,0,1,4,1,8.3,Core Engineer
+7,5,3,0,4,4,4,8.8,Core Engineer
+5,3,10,5,10,10,2,5.09,Core Engineer
+2,1,1,4,4,0,6,8.84,Core Engineer
+7,1,2,3,4,10,4,6.39,Core Engineer
+8,9,9,4,10,7,7,7.23,Software Engineer
+4,9,4,8,4,7,9,6.67,Designer
+0,4,5,3,9,2,8,6.43,Core Engineer
+2,3,5,7,1,4,1,7.64,Core Engineer
+10,2,8,6,7,1,10,5.42,Product Manager
+5,4,9,2,9,4,6,6.0,Core Engineer
+10,9,9,9,1,5,9,6.88,Product Manager
+2,4,6,0,6,2,10,7.23,Core Engineer
+3,0,7,7,4,1,8,7.13,Core Engineer
+10,1,4,0,6,0,1,9.91,Core Engineer
+0,2,9,2,2,8,3,8.8,Core Engineer
+5,4,6,9,6,6,10,7.28,Designer
+9,8,6,7,3,10,6,8.08,Data Scientist
+6,2,8,8,9,9,2,5.46,Designer
+8,4,4,1,4,7,0,5.88,Core Engineer
+5,2,8,0,10,1,5,6.49,Core Engineer
+8,4,9,9,3,8,4,6.76,Designer
+4,2,8,6,6,6,6,8.13,Core Engineer
+5,4,9,7,5,2,1,7.32,Core Engineer
+10,10,6,7,8,1,9,8.69,Software Engineer
+10,2,6,4,1,3,8,8.66,Core Engineer
+1,7,8,9,0,8,10,9.76,Product Manager
+0,2,0,2,4,5,6,6.91,Core Engineer
+4,1,3,9,3,1,10,7.12,Designer
+1,9,7,9,8,0,3,8.28,Designer
+8,7,3,2,3,3,4,7.34,Core Engineer
+1,1,8,2,7,10,7,7.94,Core Engineer
+7,9,5,8,5,0,3,8.03,Designer
+6,2,4,2,8,7,5,7.28,Core Engineer
+2,8,0,1,9,7,0,9.15,Core Engineer
+3,9,2,9,6,4,7,7.74,Designer
+2,9,3,9,1,8,3,8.65,Data Scientist
+6,6,3,3,6,7,5,9.73,Core Engineer
+2,2,2,0,0,4,6,8.93,Core Engineer
+2,0,7,0,4,6,1,5.03,Core Engineer
+2,7,4,9,1,10,10,5.02,Designer
+0,7,9,6,1,4,1,6.85,Core Engineer
+6,4,7,9,5,0,8,8.65,Designer
+5,8,10,3,5,0,10,7.36,Product Manager
+1,3,1,1,0,9,0,8.93,Core Engineer
+5,6,1,5,10,0,0,5.95,Core Engineer
+6,0,5,1,2,4,10,9.29,Core Engineer
+7,8,7,0,4,2,2,7.72,Core Engineer
+8,0,0,3,0,3,9,6.15,Core Engineer
+6,4,3,6,4,2,8,7.33,Core Engineer
+9,7,3,3,10,1,10,6.26,Software Engineer
+4,9,5,2,9,4,5,7.17,Core Engineer
+0,6,3,9,2,3,6,5.13,Designer
+3,10,10,2,10,5,2,5.75,Core Engineer
+7,4,5,0,0,5,2,9.73,Core Engineer
+3,5,2,10,4,5,5,9.61,Designer
+0,7,2,1,5,3,0,9.06,Core Engineer
+7,10,5,6,6,5,10,9.69,Core Engineer
+7,10,2,0,10,10,4,8.97,Data Scientist
+0,7,8,2,9,10,1,6.34,Core Engineer
+6,6,1,9,7,8,0,5.66,Designer
+5,4,1,6,1,0,10,5.35,Core Engineer
+3,4,2,4,2,4,7,7.84,Core Engineer
+7,2,10,1,8,10,10,6.39,Product Manager
+10,8,7,9,0,8,9,8.9,Data Scientist
+1,5,1,1,1,3,4,6.91,Core Engineer
+1,8,10,3,5,8,9,8.2,Data Scientist
+8,1,4,9,2,8,10,6.27,Designer
+8,10,1,0,4,6,2,7.94,Core Engineer
+4,5,8,3,9,7,8,9.09,Product Manager
+6,6,6,9,2,4,10,8.37,Designer
+3,2,0,6,6,7,7,5.67,Core Engineer
+4,0,6,7,10,2,0,8.33,Core Engineer
+10,8,7,9,2,2,8,7.16,Designer
+7,9,10,8,3,1,4,5.28,Designer
+9,1,6,8,6,8,5,7.37,Designer
+9,10,6,5,10,2,0,5.19,Software Engineer
+3,4,0,4,10,6,1,8.34,Core Engineer
+4,5,1,7,3,1,8,9.65,Core Engineer
+6,0,5,1,6,0,7,8.21,Core Engineer
+5,9,2,5,7,8,2,5.43,Data Scientist
+3,8,5,1,2,7,0,6.66,Core Engineer
+2,6,9,4,1,4,10,9.08,Product Manager
+3,4,9,1,7,8,7,8.98,Core Engineer
+10,3,7,4,3,3,7,9.89,Core Engineer
+0,3,3,6,3,1,9,6.05,Core Engineer
+2,8,1,1,6,9,2,8.88,Data Scientist
+4,8,7,0,7,0,1,5.08,Core Engineer
+4,8,3,1,1,8,9,9.45,Data Scientist
+6,6,0,4,8,5,1,9.61,Core Engineer
+3,8,7,4,4,0,6,9.16,Core Engineer
+0,5,5,1,1,5,7,6.05,Core Engineer
+4,7,6,10,9,7,4,5.71,Designer
+0,8,8,7,5,0,10,9.68,Product Manager
+9,0,5,0,2,4,0,7.64,Core Engineer
+4,2,4,6,8,9,7,6.89,Core Engineer
+6,8,0,8,8,0,8,8.51,Designer
+7,5,6,10,10,8,7,9.31,Designer
+1,7,10,2,4,9,2,7.15,Core Engineer
+7,1,4,2,8,3,0,7.25,Core Engineer
+4,7,10,10,2,10,2,7.98,Designer
+9,9,2,6,6,6,4,6.87,Core Engineer
+5,5,10,9,8,10,0,7.91,Designer
+5,7,6,4,0,4,5,9.52,Core Engineer
+4,4,7,3,7,9,9,7.37,Core Engineer
+6,9,7,1,9,4,0,5.83,Core Engineer
+1,7,2,10,1,2,10,6.13,Designer
+9,7,8,0,2,4,5,5.87,Core Engineer
+10,0,1,5,5,10,8,5.32,Core Engineer
+1,1,5,9,5,3,8,9.06,Designer
+4,2,8,7,4,7,3,6.31,Core Engineer
+9,0,4,7,2,3,5,5.47,Core Engineer
+0,4,2,4,6,4,10,8.16,Core Engineer
+0,10,1,4,2,2,9,5.2,Core Engineer
+3,7,6,10,3,0,6,8.01,Designer
+9,7,10,8,7,10,2,6.33,Designer
+4,1,8,8,1,3,2,5.41,Designer
+10,8,2,10,4,5,3,9.27,Designer
+7,1,4,4,7,9,0,5.06,Core Engineer
+4,9,2,6,5,1,1,6.91,Core Engineer
+4,6,6,3,5,1,0,7.99,Core Engineer
+8,9,5,4,5,1,2,9.48,Core Engineer
+1,4,1,7,7,4,5,9.15,Core Engineer
+4,2,6,0,7,0,3,8.26,Core Engineer
+4,6,5,2,0,10,0,7.79,Core Engineer
+9,0,9,9,6,6,3,5.33,Designer
+3,0,7,5,7,0,6,7.14,Core Engineer
+10,5,3,6,5,6,9,8.52,Core Engineer
+0,9,1,3,5,8,5,5.27,Data Scientist
+0,2,0,0,2,0,9,6.58,Core Engineer
+5,1,1,9,7,3,8,7.67,Designer
+6,3,1,7,2,8,0,5.57,Core Engineer
+1,9,3,8,3,4,9,8.62,Designer
+6,4,8,7,8,1,1,6.78,Core Engineer
+9,5,6,6,0,8,7,7.9,Core Engineer
+4,9,1,4,9,8,9,9.75,Data Scientist
+4,5,3,3,4,2,0,9.79,Core Engineer
+0,10,1,3,1,0,10,8.68,Core Engineer
+5,5,0,4,3,9,8,7.95,Core Engineer
+7,8,1,6,9,2,4,5.66,Core Engineer
+3,7,3,4,4,10,3,9.0,Core Engineer
+10,3,5,0,2,0,7,5.46,Core Engineer
+10,6,8,0,6,7,6,7.95,Core Engineer
+1,4,3,0,9,1,6,9.25,Core Engineer
+6,2,7,1,6,2,3,7.42,Core Engineer
+5,2,3,10,4,10,4,6.46,Designer
+4,2,7,5,1,10,1,7.35,Core Engineer
+1,8,0,0,6,0,3,7.8,Core Engineer
+0,10,1,8,3,6,5,6.74,Designer
+7,6,7,10,8,3,7,7.24,Designer
+6,7,8,7,9,6,0,9.54,Core Engineer
+4,2,10,6,9,2,3,5.38,Core Engineer
+6,4,6,7,9,4,1,7.63,Core Engineer
+6,0,4,10,8,1,3,5.55,Designer
+1,1,8,8,10,2,3,7.68,Designer
+1,2,5,7,4,7,1,9.79,Core Engineer
+10,5,10,0,2,3,0,5.66,Core Engineer
+6,3,4,4,3,1,10,9.47,Core Engineer
+9,1,9,9,5,8,4,8.75,Designer
+2,3,1,7,3,10,5,5.92,Core Engineer
+4,9,6,2,7,9,9,5.77,Data Scientist
+5,5,1,7,2,10,8,6.2,Core Engineer
+7,1,6,7,7,2,2,6.01,Core Engineer
+0,2,6,10,1,0,1,8.53,Designer
+10,7,4,8,8,4,8,6.58,Software Engineer
+6,1,0,2,3,1,4,6.66,Core Engineer
+3,1,4,7,5,2,6,9.7,Core Engineer
+6,8,5,6,4,3,7,6.82,Core Engineer
+9,1,1,8,10,0,9,5.94,Software Engineer
+1,0,7,5,2,4,5,7.73,Core Engineer
+6,2,9,9,7,9,3,6.37,Designer
+8,10,4,9,0,5,4,5.31,Designer
+9,10,2,3,10,0,0,7.18,Software Engineer
+4,3,6,1,4,8,7,6.93,Core Engineer
+1,0,5,10,7,6,6,7.3,Designer
+1,10,0,5,6,8,8,9.74,Data Scientist
+1,6,2,10,1,2,10,6.19,Designer
+8,3,8,1,7,7,9,9.72,Product Manager
+1,1,6,6,0,5,5,7.81,Core Engineer
+3,9,10,1,1,2,5,6.92,Core Engineer
+3,8,0,4,9,7,9,9.96,Core Engineer
+3,6,1,2,8,7,8,5.31,Core Engineer
+0,5,6,3,0,10,2,7.08,Core Engineer
+5,6,6,9,7,10,9,6.12,Designer
+0,1,4,6,8,0,4,8.61,Core Engineer
+0,6,10,1,0,8,9,5.09,Product Manager
+9,3,4,9,5,9,10,9.39,Designer
+8,7,3,8,7,4,3,8.78,Designer
+8,2,9,10,1,0,10,8.6,Product Manager
+0,7,5,9,2,6,7,9.55,Designer
+9,3,2,10,1,9,7,5.84,Designer
+3,3,4,7,9,2,4,6.0,Core Engineer
+9,0,10,1,3,4,8,7.98,Product Manager
+6,5,3,6,6,4,7,7.52,Core Engineer
+4,6,10,2,5,6,2,7.16,Core Engineer
+0,4,6,5,8,1,1,8.91,Core Engineer
+7,2,10,5,8,8,1,5.73,Core Engineer
+5,10,8,10,9,9,2,9.56,Data Scientist
+3,0,7,1,10,0,8,5.35,Core Engineer
+10,4,1,8,6,3,0,9.33,Designer
+0,1,0,4,1,6,3,9.42,Core Engineer
+0,5,3,7,7,7,0,9.78,Core Engineer
+6,10,3,2,5,2,8,7.97,Core Engineer
+2,0,10,8,0,1,8,9.77,Product Manager
+7,9,8,7,4,0,10,7.63,Product Manager
