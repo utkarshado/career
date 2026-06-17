@@ -32,12 +32,14 @@ with col2:
 st.markdown("---")
 
 # Predict button
+API_URL = "https://career-rd17.onrender.com/predict"
+
 if st.button("🔮 Predict Career", use_container_width=True):
     with st.spinner("Analyzing your skills..."):
 
         try:
             response = requests.post(
-                "https://career-rd17.onrender.com/predict",
+                API_URL,
                 json={
                     "prog": prog,
                     "math": math,
