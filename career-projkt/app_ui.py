@@ -37,7 +37,7 @@ if st.button("🔮 Predict Career", use_container_width=True):
 
         try:
             response = requests.post(
-                "http://127.0.0.1:8000/predict",
+                "https://career-rd17.onrender.com/predict",
                 json={
                     "prog": prog,
                     "math": math,
