@@ -2,7 +2,7 @@ from fastapi import FastAPI
 import joblib
 
 app = FastAPI(docs_url="/firstapi")
-model = joblib.load(r"C:\Users\utkar\Downloads\career-projkt\model\model.pkl")
+model = joblib.load(BASE_DIR / "model" / "model.pkl")
 
 @app.get("/")
 def home():
