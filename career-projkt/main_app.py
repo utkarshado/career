@@ -1,7 +1,9 @@
 from fastapi import FastAPI
 import joblib
+from pathlib import Path
 
 app = FastAPI(docs_url="/firstapi")
+BASE_DIR = Path(__file__).resolve().parent
 model = joblib.load(BASE_DIR / "model" / "model.pkl")
 
 @app.get("/")
